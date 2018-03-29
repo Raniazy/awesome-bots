@@ -19,3 +19,47 @@ An Awesome curated list of Bots' related repos and projects to learn how to use 
 - [Papers](#papers)
 - [Slides](#slides)
 - [Contribution](#contribution)
+
+Bots' Channels 
+Facebook Messenger
+Slack
+Twilio
+Whatsapp
+Skype
+Viber
+Web
+
+
+
+# Tutorials
+# Building Bots
+- Bots Platforms
+[Chatfuel]()
+- Bots Frameworks
+- Bots Repositories
+
+# Famous Bots
+
+# Channels
+
+# NLP Platforms
+
+# NLP Papers
+
+# NLP Open Source Projects
+
+# Analytics
+
+# Design
+
+# Testing
+
+# Books
+
+# Articles
+
+# Papers
+
+# Slides
+
+# Contribution
