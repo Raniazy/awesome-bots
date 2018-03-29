@@ -6,50 +6,16 @@ An Awesome curated list of Bots' related repos and projects to learn how to use 
 
 - [Tutorials](#tutorials)
 - [Building Bots](#building-bots)
-
-
-- [](#)
-- [](#)
-- [](#)
-
-Bot Platforms
-Bot Frameworks
-Bot repos
-
-Famous Bots
-
-Bots' Channels 
-Facebook Messenger
-Slack
-Twilio
-Whatsapp
-Skype
-Viber
-Web
-
-NLP Platforms
-
-NLP Papers
-
-NLP open source projects
-
-Analytics
-
-Design
-
-Testing
-
-Books
-
-Articles
-
-Papers
-
-Slides
-
-Contribution
-
-# Tutorials
-# Building Bots
-
-
+- [Famous Bots](#famous-bots)
+- [Channels](#channels)
+- [NLP Platforms](#nlp-platforms)
+- [NLP Papers](#nlp-papers)
+- [NLP Open Source Projects](#nlp-open-source-projects)
+- [Analytics](#analytics)
+- [Design](#design)
+- [Testing](#testing)
+- [Books](#books)
+- [Articles](#articles)
+- [Papers](#papers)
+- [Slides](#slides)
+- [Contribution](#contribution)
