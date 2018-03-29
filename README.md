@@ -21,6 +21,11 @@ An Awesome curated list of Bots' related repos and projects to learn how to use 
 - [Contribution](#contribution)
 
 # Tutorials
+- [Create Slack Bot using Botkit in 10 minutes – Chatbot's Life](https://chatbotslife.com/create-slack-bot-using-botkit-in-10-minutes-332956d6177d)
+- [Create a chatbot with Slack and Botkit](http://altitudelabs.com/blog/create-a-slackbot-using-botkit/)
+- [Building a slack bot with Botkit](https://github.com/Raniazy/tuto_slack_botkit_chatbot)
+- [Create your own Facebook Messenger bot online](https://github.com/Raniazy/messenger-facebook-bot-gupshup)
+
 # Building Bots
 ### Bots Platforms
 
@@ -79,8 +84,6 @@ An Awesome curated list of Bots' related repos and projects to learn how to use 
 
 - [Rasa NLU](https://github.com/RasaHQ/rasa_nlu)
 - [Snips](https://github.com/snipsco)
-
-
 
 # Analytics
 
