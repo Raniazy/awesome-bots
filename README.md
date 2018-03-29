@@ -35,63 +35,62 @@ Web
 # Building Bots
 ### Bots Platforms
 
-- [Chatfuel]()
-- [Motion AI]()
-- [Botfuel]()
-- [Dialog FLow]()
-- [DakiBot]()
-- [Chatfuel]()
-- [Chatfuel]()
+- [Chatfuel](https://chatfuel.com)
+- [Motion AI](http://www.motion.ai/)
+- [Botfuel](https://www.botfuel.io/en)
+- [Dialog FLow](https://dialogflow.com/)
+- [DakiBot](https://www.dakibot.com/)
 
 
 ### Bots Frameworks
 
-- [Botkit Howdy AI]()
-- [Err Bot]()
-- [Lita]()
-- [Hubot]()
-- [Chatfuel]()
-- [Chatfuel]()
+- [Botkit Howdy AI](https://howdy.ai/)
+- [Err Bot](http://errbot.io/en/latest/)
+- [Lita](https://www.lita.io/)
+- [Hubot](https://hubot.github.com/)
+
 ### Bots Repositories
 
-- []()
+- [Hubot](https://github.com/hubotio)
+- [Botkit](https://github.com/howdyai/botkit)
+- [Lita](https://github.com/litaio/lita)
+- [Err Bot](https://github.com/errbotio/errbot)
 
 # Famous Bots
 
-- [Poncho]()
-- [Wafasalaf]()
+- [Poncho](https://www.messenger.com/t/hiponcho)
+- [Wafasalaf](https://www.messenger.com/t/wafasalaf)
 - [CNN]()
-- [TechCrunch]()
-- [Chatfuel]()
-
+- [TechCrunch](https://www.messenger.com/t/8062627951)
+- [Trading Bot](https://www.messenger.com/t/TheTradingBot)
 
 # Channels
 
-- [Messenger Facebook]()
-- [Slack]()
-- [Telegram]()
-- [Kik]()
-- [Skype]()
+- [Messenger Facebook](https://www.messenger.com)
+- [Slack](https://www.slack.com)
+- [Telegram](https://telegram.org/)
+- [Kik](https://www.kik.com)
+- [Skype](https://www.skype.com)
 - [Web]()
 
 
 # NLP Platforms
 
-- [Wit AI from Facebook]()
-- [Dialog Flow from Google]()
-- [LUIS from Microsoft]()
+- [Wit AI from Facebook](https://wit.ai/)
+- [Dialog Flow from Google](https://dialogflow.com)
+- [LUIS from Microsoft](https://www.luis.ai/)
 
 # NLP Papers
 
+- [The Standford Natural Language Processing Group](https://nlp.stanford.edu/pubs/)
+- [Natural Language Processing (Almost) from Scratch](http://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf)
+- [White Paper on Natural Language Processing](http://www.aclweb.org/anthology/H89-2078)
+
 # NLP Open Source Projects
 
-# Analytics
+- [Rasa NLU](https://github.com/RasaHQ/rasa_nlu)
+- [Snips](https://github.com/snipsco)
 
-# Design
-
-# Testing
-
-# Books
 
 # Articles
 
