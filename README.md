@@ -1,4 +1,5 @@
-# Awesome Bots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Bots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Twitter](https://img.shields.io/badge/follow-twitter-55acee.svg?style=flat-square)](https://twitter.com/raniazy) ![license](https://img.shields.io/github/license/mashape/apistatus.svg)
+
 
 An Awesome curated list of Bots' related repos and projects to learn how to use Bots in real world problems. 
 
