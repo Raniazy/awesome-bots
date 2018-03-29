@@ -20,17 +20,6 @@ An Awesome curated list of Bots' related repos and projects to learn how to use 
 - [Slides](#slides)
 - [Contribution](#contribution)
 
-Bots' Channels 
-Facebook Messenger
-Slack
-Twilio
-Whatsapp
-Skype
-Viber
-Web
-
-
-
 # Tutorials
 # Building Bots
 ### Bots Platforms
@@ -112,12 +101,18 @@ Web
 
 - [Chatbots for eCommerce: Learn how to build a virtual shopping assistant](https://www.amazon.com/gp/product/B0714LD3H2/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=botsfloor0d-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0714LD3H2&linkId=1e52a64c2035320e04cd6c1e246e5b84)
 - [Chatbots: An Introduction And Easy Guide To Making Your Own](https://www.amazon.com/gp/product/1999834801/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=botsfloor0d-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1999834801&linkId=f484afb09a1cea18a36964fdacc501ae)
-
+- [An Introduction to the Microsoft Bot Framework: Create Facebook and Skype Chatbots using Microsoft Visual Studio and C#](https://www.amazon.com/gp/product/1539963020/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=botsfloor0d-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1539963020&linkId=194360dfa510cf062818b41379e7d475)
 
 # Articles
 
+TODO
+
 # Papers
 
+TODO
+
 # Slides
+
+TODO
 
 # Contribution
