@@ -22,6 +22,12 @@ Skype
 Viber
 Web
 
+NLP Platforms
+
+NLP Papers
+
+NLP open source projects
+
 Analytics
 
 Design
@@ -31,6 +37,8 @@ Testing
 Books
 
 Articles
+
+Papers
 
 Slides
 
