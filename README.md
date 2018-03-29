@@ -33,16 +33,53 @@ Web
 
 # Tutorials
 # Building Bots
-- Bots Platforms
-[Chatfuel]()
-- Bots Frameworks
-- Bots Repositories
+### Bots Platforms
+
+- [Chatfuel]()
+- [Motion AI]()
+- [Botfuel]()
+- [Dialog FLow]()
+- [DakiBot]()
+- [Chatfuel]()
+- [Chatfuel]()
+
+
+### Bots Frameworks
+
+- [Botkit Howdy AI]()
+- [Err Bot]()
+- [Lita]()
+- [Hubot]()
+- [Chatfuel]()
+- [Chatfuel]()
+### Bots Repositories
+
+- []()
 
 # Famous Bots
 
+- [Poncho]()
+- [Wafasalaf]()
+- [CNN]()
+- [TechCrunch]()
+- [Chatfuel]()
+
+
 # Channels
 
+- [Messenger Facebook]()
+- [Slack]()
+- [Telegram]()
+- [Kik]()
+- [Skype]()
+- [Web]()
+
+
 # NLP Platforms
+
+- [Wit AI from Facebook]()
+- [Dialog Flow from Google]()
+- [LUIS from Microsoft]()
 
 # NLP Papers
 
