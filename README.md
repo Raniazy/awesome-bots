@@ -5,8 +5,8 @@ An Awesome curated list of Bots' related repos and projects to learn how to use 
 
 ## Contents
 
-- [Tutorials](#tutorials)
 - [Building Bots](#building-bots)
+- [Tutorials](#tutorials)
 - [Famous Bots](#famous-bots)
 - [Channels](#channels)
 - [NLP Platforms](#nlp-platforms)
@@ -21,13 +21,8 @@ An Awesome curated list of Bots' related repos and projects to learn how to use 
 - [Slides](#slides)
 - [Contribution](#contribution)
 
-# Tutorials
-- [Create Slack Bot using Botkit in 10 minutes – Chatbot's Life](https://chatbotslife.com/create-slack-bot-using-botkit-in-10-minutes-332956d6177d)
-- [Create a chatbot with Slack and Botkit](http://altitudelabs.com/blog/create-a-slackbot-using-botkit/)
-- [Building a slack bot with Botkit](https://github.com/Raniazy/tuto_slack_botkit_chatbot)
-- [Create your own Facebook Messenger bot online](https://github.com/Raniazy/messenger-facebook-bot-gupshup)
-
 # Building Bots
+
 ### Bots Platforms
 
 - [Chatfuel](https://chatfuel.com)
@@ -50,6 +45,12 @@ An Awesome curated list of Bots' related repos and projects to learn how to use 
 - [Botkit](https://github.com/howdyai/botkit)
 - [Lita](https://github.com/litaio/lita)
 - [Err Bot](https://github.com/errbotio/errbot)
+
+# Tutorials
+- [Create Slack Bot using Botkit in 10 minutes – Chatbot's Life](https://chatbotslife.com/create-slack-bot-using-botkit-in-10-minutes-332956d6177d)
+- [Create a chatbot with Slack and Botkit](http://altitudelabs.com/blog/create-a-slackbot-using-botkit/)
+- [Building a slack bot with Botkit](https://github.com/Raniazy/tuto_slack_botkit_chatbot)
+- [Create your own Facebook Messenger bot online](https://github.com/Raniazy/messenger-facebook-bot-gupshup)
 
 # Famous Bots
 
@@ -121,3 +122,5 @@ TODO
 TODO
 
 # Contribution
+
+Feel free to add your favorite lists or fill the current ones :) 
