@@ -109,8 +109,9 @@ An Awesome curated list of Bots' related repos and projects to learn how to use 
 
 # Articles
 
-TODO
-
+- [Create, Develop and Deploy your FB Messenger chatbot](https://chatbotsmagazine.com/create-develop-and-deploy-your-fb-messenger-chatbot-974f6f65ad82)
+- [Bot-Ops: Manage Your Bots Using a Superbot](https://chatbotsmagazine.com/botops-manage-your-bots-using-a-superbot-82cf24f2a3c1)
+- [AI Platforms — You’ll need them to make your chatbot smarter [REX]](https://chatbotsmagazine.com/ai-platforms-youll-need-them-to-make-your-chatbots-smarter-rex-a884e1fea1ea)
 # Papers
 
 TODO
