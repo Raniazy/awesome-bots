@@ -117,11 +117,11 @@ An Awesome curated list of Bots' related repos and projects to learn how to use 
 - [AI Platforms — You’ll need them to make your chatbot smarter [REX]](https://chatbotsmagazine.com/ai-platforms-youll-need-them-to-make-your-chatbots-smarter-rex-a884e1fea1ea)
 # Papers
 
-- [Chabots Survey 2017](http://linkshrink.net/71o3Yg)
+TODO 
 
 # Slides
 
-TODO
+- [Chabots Survey 2017](http://linkshrink.net/71o3Yg)
 
 # Contribution
 
