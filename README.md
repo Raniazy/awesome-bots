@@ -87,6 +87,7 @@ An Awesome curated list of Bots' related repos and projects to learn how to use 
 
 - [Rasa NLU](https://github.com/RasaHQ/rasa_nlu)
 - [Snips](https://github.com/snipsco)
+- [SNLP (Stanford University)](https://nlp.stanford.edu/software/)
 
 # Analytics
 
