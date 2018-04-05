@@ -81,6 +81,7 @@ An Awesome curated list of Bots' related repos and projects to learn how to use 
 - [The Standford Natural Language Processing Group](https://nlp.stanford.edu/pubs/)
 - [Natural Language Processing (Almost) from Scratch](http://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf)
 - [White Paper on Natural Language Processing](http://www.aclweb.org/anthology/H89-2078)
+- [Convolutional Neural Networks for text classification](https://arxiv.org/pdf/1408.5882v2.pdf)
 
 # NLP Open Source Projects
 
