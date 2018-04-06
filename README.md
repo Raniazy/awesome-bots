@@ -51,6 +51,9 @@ An Awesome curated list of Bots' related repos and projects to learn how to use 
 - [Create a chatbot with Slack and Botkit](http://altitudelabs.com/blog/create-a-slackbot-using-botkit/)
 - [Building a slack bot with Botkit](https://github.com/Raniazy/tuto_slack_botkit_chatbot)
 - [Create your own Facebook Messenger bot online](https://github.com/Raniazy/messenger-facebook-bot-gupshup)
+- [Messenger Bot with DialogFlow & Golang](http://www.blog.labouardy.com/bot-in-messenger-with-dialogflow-golang/)
+- [Chatbot with Angular 5 & DialogFlow](http://www.blog.labouardy.com/chatbot-with-angular-5-dialogflow/)
+- [Build a Facebook Messenger bot with Go and Messenger API](http://www.blog.labouardy.com/create-facebook-messanger-bot-with-go-and-messenger-api/)
 
 # Famous Bots
 
