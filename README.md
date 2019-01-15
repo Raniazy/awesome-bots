@@ -30,7 +30,7 @@ An Awesome curated list of Bots' related repos and projects to learn how to use 
 - [Botfuel](https://www.botfuel.io/en)
 - [Dialog FLow](https://dialogflow.com/)
 - [DakiBot](https://www.dakibot.com/)
-
+- [InviteMember](https://invitemember.com)
 
 ### Bots Frameworks
 
